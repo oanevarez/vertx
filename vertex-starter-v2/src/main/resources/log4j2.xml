@@ -11,6 +11,7 @@
     <Logger name="com.eventbus" level="DEBUG"/>
     <Logger name="com.worker.threads" level="DEBUG"/>
     <Logger name="com.ozzy.vertex_starter_v2" level="DEBUG"/>
+    <Logger name="com.sensor" level="DEBUG"/>
     <Root level="INFO">
       <AppenderRef ref="Console"/>
     </Root>
